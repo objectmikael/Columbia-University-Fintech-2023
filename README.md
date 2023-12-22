@@ -13,10 +13,10 @@ This repositiory will house various class activities and projects for the durati
   - [Activity 1.2: Fintech Domain Pt.1](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Deep%20Dive%20Into%20Fintech/Activities/Activity-1.2-FinTech_Domains_Pt1.md)
   - [Activity 1.2: Fintech Domain Pt.2](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Deep%20Dive%20Into%20Fintech/Activities/Activity-1.2-FinTech_Domains_Pt2.md)
 - Fintech Collaboration
-  - [Activity 1.3: Refresher]()
-  - [Activity 1.3: Git CLI]()
-  - [Activity 1.3: Markdown]()
-  - [Activity 1.3: Group Case Study]()
+  - [Activity 1.3: Refresher](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Refresher.md)
+  - [Activity 1.3: Git CLI](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Git_CLI.md)
+  - [Activity 1.3: Markdown](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Markdown.md)
+  - [Activity 1.3: Group Case Study](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Group_Case_Study.md)
 - Weekly Challenge
   - [...]()
  
