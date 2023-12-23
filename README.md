@@ -22,7 +22,24 @@ This repositiory will house various class activities and projects for the durati
  
 ### Module 2
 - The Emergence of Python
+  - Activity 2.1: Jupyter Project
+  - Activity 2.1: Variables
+  - Activity 2.1: Conditionals
+  - Activity 2.1: Loops
+  - Activity 2.1: Pseudocoding
+  - Activity 2.1: Challange   
 - Data Structures and Functions
+  - Activity 2.2: Lists
+  - Activity 2.2: Iterate Lists
+  - Activity 2.2: Dictionaries
+  - Activity 2.2: Nesting
+  - Activity 2.2: Functions
 - Functions and Files
+  - Activity 2.3: Refresher
+  - Activity 2.3: Time Value of Money
+  - Activity 2.3: Imports
+  - Activity 2.3: File IO
+  - Activity 2.3: CSV Reader
 - Weekly Challenge
+  - Automate Your Day Job with Python 
 
