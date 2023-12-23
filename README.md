@@ -18,7 +18,7 @@ This repositiory will house various class activities and projects for the durati
   - [Activity 1.3: Markdown](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Markdown.md)
   - [Activity 1.3: Group Case Study](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Fintech%20Collaboration/Activities/Activity-1.3-Group_Case_Study.md)
 - Weekly Challenge
-  - [...]()
+  - [Case Study: Zip Co Limited](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%201/Weekly%20Challenges/Zip_Co_Limited_Case_Study.md)
  
 ### Module 2
 - The Emergence of Python
