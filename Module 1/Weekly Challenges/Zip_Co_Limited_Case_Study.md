@@ -73,12 +73,14 @@
 		- The U.S. Consumer Financial Protection Bureau(CFPB) plans to starts regulating the BNPL industry in concern for consumer well being and the overlap of banking and commerce.
 			> "In the U.S., we have generally had a separation between banking and commerce, but as big tech-style business practices are adopted in the payments and financial services arena, that separation can go out the door." (CFPB director Rohit Chopra) <sup>(7)</sup>
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? <sup>(9)</sup>
 	- Afterpay
 	- Klarna
 	- Affirm
 	- Uplift 
 	- Sezzle
+
+	![BNPL Events](https://i.imgur.com/464k1oI.png)
 
 
 ## Results
@@ -101,8 +103,16 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+	- **Zip's Current Products**<sup>(8)</sup>
+		- Zip Pay: a digital wallet and credit account that allows users to make purchases with participating merchants and pay for them later in interest-free installments.
+		- Zip Money: a higher credit limit product designed for larger purchases and longer-term payment options. It provides consumers with a line of credit for amounts typically above what is available through Zip Pay. Zip Money offers interest-free periods for up to 36 months.
+	- **Prospects**
+		- Debit Card: Growth in the BNPL space is directly related with increased customer engagement. Debit cards are excepted by almost all merhcnats worldwide, so keeping a customer in Zip's ecosystem, will allow them to capitalize on the BNPL side of the business. 
+			> "top of wallet" 
+		- Financial Wellness Dashboard: Consumers today are increasingly becoming more invested in their financial wellbeing, given the hike in interest rates. An integrated dashboard in Zip's app may increase time-on-app which should have a direct correlation to increase transactions per user.  
 
 * Why do you think that offering this product or service would benefit the company?
+	> Stay Within the Ecosystem
 
 * What technologies would this additional product or service utilize?
 
@@ -119,3 +129,4 @@
 - [Retail Brew: The evolution of buy now, pay later<sup>6</sup>](https://www.retailbrew.com/stories/2021/12/27/the-evolution-of-buy-now-pay-later)
 - [Reuters: U.S. consumer watchdog plans to regulate 'buy-now, pay-later' companies<sup>7</sup>](https://www.reuters.com/business/finance/us-consumer-watchdog-plans-regulate-buy-now-pay-later-companies-2022-09-15/)
 - [Zip Co US Website<sup>8</sup>](https://zip.co/us)
+- [equipifi blog<sup>9</sup>](https://www.equipifi.com/blog/the-end-of-fomo-for-buy-now-pay-later)
