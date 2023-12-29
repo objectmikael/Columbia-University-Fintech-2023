@@ -44,17 +44,36 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 	- THE BNPL industry is competitive with most companies being very similar. Zip Co differentiates itself by providing interest-free installment plans and takes pride in its user-interface, quick approval processes, and partnerships with various merchants to offer their payment solutions at the point of sale. <sup>(8)</sup>
-        
-        ![Zip App Screenshot](https://i.imgur.com/tiZfHoO.png)
+        <details>
+		<summary>Product Screenshots</summary>
+			<img src='https://i.imgur.com/tiZfHoO.png'></img>
+			<img src='https://i.imgur.com/W2jmO7C.png'></img>
+			<img src='https://i.imgur.com/hx1JI6D.png'></img>
 
-		![Zip Online Shopping Screenshot](https://i.imgur.com/W2jmO7C.png)
+		> As of Dec. 2023, Zip collaborated with Apple Pay to integrate their services with merchants who accept Apple Pay. <sup>(5)</sup>
+		</details>
 
-		![Zip In-Store Shopping Screenshot](https://i.imgur.com/hx1JI6D.png)
-
-         > As of Dec. 2023, Zip collaborated with Apple Pay to integrate their services with merchants who accept Apple Pay. <sup>(5)</sup>
+		
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-	- ...
+	- Because Zip Co is an Australian based company, I had a difficult time confirming the technologies used. Using crunch, I was able to identify <code>HTML5</code> <code>jQuery</code> and <code>Google Analytics</code>. However, a closer look at Zip's competitor's tech stacks, I was able to identity various components needed:    
+		- ...
+		- ...
+		<details>
+			<summary>Affirm Tech Stack</summary>
+			<img src='https://i.imgur.com/UtfNqwY.png'></img>
+			<img src='https://i.imgur.com/cBSiFCE.png'></img>
+			<img src='https://i.imgur.com/qMnKF3A.png'></img>
+			<img src='https://i.imgur.com/5ZYCSE1.png'></img>
+		</details>
+
+		<details>
+			<summary>Klarna Tech Stack</summary>
+			<img src='https://i.imgur.com/3rtY0jw.png'></img>
+			<img src='https://i.imgur.com/2zaE7On.png'></img>
+			<img src='https://i.imgur.com/VTAuJev.png'></img>
+			<img src='https://i.imgur.com/vtXUfbR.png'></img>
+		</details>	
 
 
 ## Landscape
@@ -79,9 +98,11 @@
 	- Affirm
 	- Uplift 
 	- Sezzle
-
-	![BNPL Events](https://i.imgur.com/464k1oI.png)
-
+	
+		<details>
+			<summary>BNPL News Snippets</summary>
+			<img src='https://i.imgur.com/464k1oI.png'></img>
+		</details>
 
 ## Results
 
@@ -98,6 +119,7 @@
 
 
 * How is your company performing relative to competitors in the same domain?
+	- ...
 
 
 ## Recommendations
