@@ -35,7 +35,7 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
-	- Zip Co aims to address the issue of inflexibility in traditional payment methods by offering POS financing. Zip's main offering is a BNPL service through interest-free installment plans. 
+	- Zip Co aims to address the issue of inflexibility in traditional payment methods by offering Point-of-Sale(POS) financing. Zip's main offering is a Buy-Now-Play-Later(BNPL) service through interest-free installment plans. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 	- The intended customer base for Zip Co includes consumers who want a more flexible and modern approach to financing their purchases.  
@@ -56,9 +56,11 @@
 		
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-	- Because Zip Co is an Australian based company, I had a difficult time confirming the technologies used. Using crunch, I was able to identify <code>HTML5</code> <code>jQuery</code> and <code>Google Analytics</code>. However, a closer look at Zip's competitor's tech stacks, I was able to identity various components needed:    
-		- ...
-		- ...
+	- Because Zip Co is an Australian based company, I had a difficult time confirming the technologies used. Using Crunchbase, I was able to identify <code>HTML5</code> <code>jQuery</code> and <code>Google Analytics</code>. However, a closer look at Zip's competitor's tech stacks, I was able to identity various components needed:    
+		- Core programming language(s) for website and mobile app.
+		- A platform to manage payments. 
+		- A platform/service to verify user and determine user spending power. 
+		- Any additional platforms for day-to-day operations.  
 		<details>
 			<summary>Affirm Tech Stack</summary>
 			<img src='https://i.imgur.com/UtfNqwY.png'></img>
@@ -79,7 +81,7 @@
 ## Landscape
 
 * What domain of the financial industry is the company in?
-	- Zip Co operates within the Buy Now, Pay Later(BNPL) domain
+	- Zip Co operates within the Buy Now, Pay Later domain
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 	- A spike in BNPL platforms 
@@ -87,13 +89,13 @@
 	- E-Commerce Integration
 		- Many platforms have integrated BNPL payments options available at the point of checkout which contributed to the growth of online shopping. <sup>(6)</sup> 
 	- Mergers and Aquisitions 
-		- The space has become so compettive over the last 10 years, there has been quite a few consolidations. Zip Co has aquired 6 companies to ensure they remain competitive within the space <sup>(3)</sup><sup>(6)</sup>
+		- The space has become so compettive over the last 10 years, there has been quite a few consolidations. Zip Co has aquired 6 companies to ensure they remain competitive within the space. <sup>(3)</sup><sup>(6)</sup>
 	- Regulatory Scrutiny 
 		- The U.S. Consumer Financial Protection Bureau(CFPB) plans to starts regulating the BNPL industry in concern for consumer well being and the overlap of banking and commerce.
 			> "In the U.S., we have generally had a separation between banking and commerce, but as big tech-style business practices are adopted in the payments and financial services arena, that separation can go out the door." (CFPB director Rohit Chopra) <sup>(7)</sup>
 
 * What are the other major companies in this domain? <sup>(9)</sup>
-	- Afterpay
+	- Afterpay (Acquired by PayPal)
 	- Klarna
 	- Affirm
 	- Uplift 
@@ -109,17 +111,26 @@
 * What has been the business impact of this company so far?
 	- Adoption of BNPL and rise in consumer spending 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-	- Customer Aquisition and Retention 
-	- Merchant Partnerships
-	- Transaction Volume 
-	- Average Transaction Size 
-	- Approval rates
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? <sup>10</sup>
+	- Customer Aquisition and Retention (11.4m, up 56% YoY)
+	- Merchant Partnerships (90.7k, up 77% YoY)
+	- Transaction Volume ($8.7b FY22, up 51% YoY)
+	- Average Transaction Size ($117.1 FY22, down 18% YoY )
 	- Default Rates 
+		- Goal is <2% of Total Transaction Volumne 
+		- 2.49% as of 1Q23
+	- Approval Rates
 
+		<details>
+				<summary>Zip Co's Annual Meeting Snapshots</summary>
+				<img src='https://i.imgur.com/oMagH0W.png'></img>
+				<img src='https://i.imgur.com/U6Iy7L3.png'></img>
+		</details>
 
 * How is your company performing relative to competitors in the same domain?
-	- ...
+	- Klarna market cap $7B(30.62%). <sup>(4)</sup>
+	- Affirm market cap $3B(13.12%). <sup>(4)</sup>
+	- Block, PayPal, and Mastercard offer BNPL services and are the top three leaders in the domain, worldwide.  <sup>(4)</sup>
 
 
 ## Recommendations
@@ -152,3 +163,4 @@
 - [Reuters: U.S. consumer watchdog plans to regulate 'buy-now, pay-later' companies<sup>7</sup>](https://www.reuters.com/business/finance/us-consumer-watchdog-plans-regulate-buy-now-pay-later-companies-2022-09-15/)
 - [Zip Co US Website<sup>8</sup>](https://zip.co/us)
 - [equipifi blog<sup>9</sup>](https://www.equipifi.com/blog/the-end-of-fomo-for-buy-now-pay-later)
+- [Zip Co Annual Meeting 2022 Deck<sup>10</sup>](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02593417-2A1411095?access_token=83ff96335c2d45a094df02a206a39ff4)
