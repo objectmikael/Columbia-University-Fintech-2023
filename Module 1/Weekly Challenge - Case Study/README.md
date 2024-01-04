@@ -85,7 +85,7 @@
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 	- A spike in BNPL platforms 
-		- Gen Z is likely to boost business and the BNPL space as they show an aversion towards excessive fees, interest and expensive credit cards. <sup>(6)</sup>
+		- Gen Z is likely to boost business in the BNPL space as they show an aversion towards excessive fees, interest and expensive credit cards. <sup>(6)</sup>
 	- E-Commerce Integration
 		- Many platforms have integrated BNPL payments options available at the point of checkout which contributed to the growth of online shopping. <sup>(6)</sup> 
 	- Mergers and Aquisitions 
@@ -111,7 +111,7 @@
 * What has been the business impact of this company so far?
 	- Adoption of BNPL and rise in consumer spending 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? <sup>10</sup>
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? <sup>(10)</sup>
 	- Customer Aquisition and Retention (11.4m, up 56% YoY)
 	- Merchant Partnerships (90.7k, up 77% YoY)
 	- Transaction Volume ($8.7b FY22, up 51% YoY)
@@ -140,16 +140,26 @@
 		- Zip Pay: a digital wallet and credit account that allows users to make purchases with participating merchants and pay for them later in interest-free installments.
 		- Zip Money: a higher credit limit product designed for larger purchases and longer-term payment options. It provides consumers with a line of credit for amounts typically above what is available through Zip Pay. Zip Money offers interest-free periods for up to 36 months.
 	- **Prospects**
-		- Debit Card: Growth in the BNPL space is directly related with increased customer engagement. Debit cards are excepted by almost all merhcnats worldwide, so keeping a customer in Zip's ecosystem, will allow them to capitalize on the BNPL side of the business. 
-			> "top of wallet" 
+		- Debit Card: Growth in the BNPL space is directly related with increased customer engagement. Debit cards are excepted by almost all merhcnats worldwide, so keeping a customer in Zip's ecosystem, will allow them to capitalize on the BNPL side of the business. A goal for most BNPL providers is to have their product be ```top of wallet``` for consumers which means its their first or most accessible choice for payment. 
+			
 		- Financial Wellness Dashboard: Consumers today are increasingly becoming more invested in their financial wellbeing, given the hike in interest rates. An integrated dashboard in Zip's app may increase time-on-app which should have a direct correlation to increase transactions per user.  
 
 * Why do you think that offering this product or service would benefit the company?
-	> Stay Within the Ecosystem
+	- Offering the two products above will allow consumers to ```Stay Within the Zip Co Ecosystem``` longer, which can enhance user enaggement and position the company as a comprehensive financial planner.
 
 * What technologies would this additional product or service utilize?
+	- Debit Cards:
+		- Near Field Communication (NFC) for contactless payments.
+		- Advanced encryption for secure transactions. 
+	- Financial Wellness Dashboard  
+		- API integrations to collect financial data.
+		- Advanced analytics for personal financial insights. 
 
 * Why are these technologies appropriate for your solution?
+	- NFC aligns with modern payment preferences. 
+	- Encryption builds trust with the brand to secure a users' financial data. 
+	- API integration creates a more holistic view of a user's transactional history. 
+	- Analytics provide users with the power/data to make better decisions w.r.t spending and financial habits. 
 
 
 ## Addendum - Works Cited 

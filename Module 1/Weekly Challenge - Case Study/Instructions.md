@@ -178,28 +178,28 @@ To receive all points, you must:
 
 To receive all points, you must:
 
-- Communicate a thorough synopsis of trends and landmarks in the chosen fintech domain. (10 points)
-- Identify several major competitors. (10 points)
+- Communicate a thorough synopsis of trends and landmarks in the chosen fintech domain. (10 points) ✅
+- Identify several major competitors. (10 points) ✅
 
 ### **Research Depth (15 points)**
 
 To receive all points, you must:
 
-- Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
-- Use specific quotes from sources and reference them clearly and accurately. (10 points)
+- Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points) ✅
+- Use specific quotes from sources and reference them clearly and accurately. (10 points) ✅
 
 ### **Recommendations (20 points)**
 
 To receive all points, you must:
 
-- Thoroughly explain company recommendations. (10 points)
-- Base company recommendations in solid research. (10 points)
+- Thoroughly explain company recommendations. (10 points) ✅
+- Base company recommendations in solid research. (10 points) ✅
 
 ### **Report Presentation (20 points)**
 
 To receive all points, you must:
 
-- Present the report in a `README.md` file in a GitHub repository. (10 points)
+- Present the report in a `README.md` file in a GitHub repository. (10 points) ✅
 - Showcase your expertise and build credibility. (10 points)
 
 ### **Submission**
