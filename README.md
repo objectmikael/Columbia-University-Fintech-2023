@@ -22,12 +22,12 @@ This repositiory will house various class activities and projects for the durati
  
 ### Module 2
 - The Emergence of Python
-  - Activity 2.1: Jupyter Project
-  - Activity 2.1: Variables
-  - Activity 2.1: Conditionals
-  - Activity 2.1: Loops
+  - [Activity 2.1: Jupyter Project](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/The%20Emergence%20of%20Python/Activities/Activity-2.1-Jupyter_Project.md)
+  - [Activity 2.1: Variables](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/The%20Emergence%20of%20Python/Activities/Activity-2.1-Variables.md)
+  - [Activity 2.1: Conditionals](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/The%20Emergence%20of%20Python/Activities/Activity-2.1-Conditionals.md)
+  - [Activity 2.1: Loops](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/The%20Emergence%20of%20Python/Activities/Activity-2.1-Loops.md)
   - Activity 2.1: Pseudocoding
-  - Activity 2.1: Challange   
+  - Activity 2.1: Challange  
 - Data Structures and Functions
   - Activity 2.2: Lists
   - Activity 2.2: Iterate Lists
