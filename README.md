@@ -41,5 +41,5 @@ This repositiory will house various class activities and projects for the durati
   - Activity 2.3: File IO
   - Activity 2.3: CSV Reader
 - Weekly Challenge
-  - Automate Your Day Job with Python 
+  - [Automate Your Day Job with Python](https://github.com/objectmikael/python-homework) 
 
