@@ -35,9 +35,9 @@ This repositiory will house various class activities and projects for the durati
   - [Activity 2.2: Nesting](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Nesting.md)
   - [Activity 2.2: Functions](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Functions.md)
 - Functions and Files
-  - Activity 2.3: Refresher
-  - Activity 2.3: Time Value of Money
-  - Activity 2.3: Imports
+  - [Activity 2.3: Refresher](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Functions%20and%20Files/Activities/Activity-2.3-Refresher.md)
+  - [Activity 2.3: Time Value of Money](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Functions%20and%20Files/Activities/Activity-2.3-Time_Value_Of_Money.md)
+  - [Activity 2.3: Imports](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Functions%20and%20Files/Activities/Activity-2.3-Imports.md)
   - Activity 2.3: File IO
   - Activity 2.3: CSV Reader
 - Weekly Challenge
