@@ -29,11 +29,11 @@ This repositiory will house various class activities and projects for the durati
   - Activity 2.1: Pseudocoding
   - Activity 2.1: Challange  
 - Data Structures and Functions
-  - Activity 2.2: Lists
-  - Activity 2.2: Iterate Lists
-  - Activity 2.2: Dictionaries
-  - Activity 2.2: Nesting
-  - Activity 2.2: Functions
+  - [Activity 2.2: Lists](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Lists.md)
+  - [Activity 2.2: Iterate Lists](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Iterate_List.md)
+  - [Activity 2.2: Dictionaries](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Dictionaries.md)
+  - [Activity 2.2: Nesting](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Nesting.md)
+  - [Activity 2.2: Functions](https://github.com/objectmikael/Columbia-University-Fintech-2023/blob/main/Module%202/Data%20Structures%20and%20Functions/Activities/Activity-2.2-Functions.md)
 - Functions and Files
   - Activity 2.3: Refresher
   - Activity 2.3: Time Value of Money
@@ -41,5 +41,5 @@ This repositiory will house various class activities and projects for the durati
   - Activity 2.3: File IO
   - Activity 2.3: CSV Reader
 - Weekly Challenge
-  - Automate Your Day Job with Python 
+  - [Automate Your Day Job with Python](https://github.com/objectmikael/python-homework) 
 
