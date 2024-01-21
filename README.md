@@ -43,3 +43,14 @@ This repositiory will house various class activities and projects for the durati
 - Weekly Challenge
   - [Automate Your Day Job with Python](https://github.com/objectmikael/python-homework) 
 
+### Module 3
+- Python Review Day 
+- Meet Pandas
+- Risk and Return Over Time
+
+### Module 4
+- Investing Like a Pro  
+- Pandas Review Day
+- Whiteboard Interviews
+- Weekly Challenge
+  - [A Whale Off the Port(folio)](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%204/Weekly%20Challenge%20-%20A%20Whale%20Off%20the%20Portfolio) 
