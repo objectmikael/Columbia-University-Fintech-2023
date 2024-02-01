@@ -65,7 +65,13 @@ This repositiory will house various class activities and projects for the durati
 
 ### Module 5
 - APIs
+  - [Activity 5.1: Ice Breakers on Requests](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/APIs/Activity-5.1-Ice_Breakers_on_Request)
+  - [Activity 5.1: House of Requests](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/APIs/Activity-5.1-House_of_Requests)
 - APIs in Fintech
+  - [Activity 5.2: Under Lock and Key](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/APIs%20in%20Fintech/Activity-5.2-Under_Lock_And_Key)
+  - [Activity 5.2: Investment Value](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/APIs%20in%20Fintech/Activity-5.2-Investment_Value)
 - Predicting the Future with Monte Carlo Simulations
+  - [Activity 5.3: Decisive Distributions](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Predicting%20the%20Future%20with%20Monte%20Carlo%20Simulations/Activity-5.3-Decisive_Distributions)
+  - [Activity 5.3: Three Stock Monte](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Predicting%20the%20Future%20with%20Monte%20Carlo%20Simulations/Activity-5.3-Three_Stock_Monte)
 - Weekly Challenge 
-  - Financial Planner
+  - [Financial Planner](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Weekly%20Challenge%20-%20Financial%20Planner)
