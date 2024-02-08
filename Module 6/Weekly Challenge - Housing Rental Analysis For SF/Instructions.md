@@ -134,7 +134,7 @@ Based on the visualizations that you created, answer the following questions:
 
 ### Requirements
 
-#### Calculate and Plot the Housing Units per Year (10 points)
+#### Calculate and Plot the Housing Units per Year (10 points) ✅
 
 ##### To receive all points, you must:
 
@@ -148,7 +148,7 @@ Based on the visualizations that you created, answer the following questions:
 
    * What’s the overall trend in housing units over the period that you’re analyzing? (4 points)
 
-#### Calculate and Plot the Average Sale Prices per Square Foot (10 points)
+#### Calculate and Plot the Average Sale Prices per Square Foot (10 points) ✅
 
 ##### To receive all points, you must:
 
@@ -166,7 +166,7 @@ Based on the visualizations that you created, answer the following questions:
 
    * Did the gross rent increase or decrease during that year?  (1 point)
 
-#### Compare the Average Sale Prices by Neighborhood (20 points)
+#### Compare the Average Sale Prices by Neighborhood (20 points) ✅
 
 ##### To receive all points, you must:
 
@@ -182,7 +182,7 @@ Based on the visualizations that you created, answer the following questions:
 
    * For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012? (4 points)
 
-#### Build an Interactive Neighborhood Map (20 points)
+#### Build an Interactive Neighborhood Map (20 points) ✅
 
 ##### To receive all points, you must:
 
@@ -212,7 +212,7 @@ Based on the visualizations that you created, answer the following questions:
 
     * Which neighborhood has the highest gross rent, and which has the highest sale price per square foot? (3 points)
 
-#### Compose Your Data Story (10 points)
+#### Compose Your Data Story (10 points) ✅
 
 ##### To receive all points, you must:
 
@@ -222,7 +222,7 @@ Based on the visualizations that you created, answer the following questions:
 
     * What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why? (5 points)
 
-#### Coding Conventions and Formatting (10 points)
+#### Coding Conventions and Formatting (10 points) ✅
 
 ##### To receive all points, your code must:
 
@@ -234,7 +234,7 @@ Based on the visualizations that you created, answer the following questions:
 
 * Use concise logic and creative engineering where possible. (2 points)
 
-#### Deployment and Submission (10 points)
+#### Deployment and Submission (10 points) ✅
 
 ##### To receive all points, you must:
 
@@ -244,7 +244,7 @@ Based on the visualizations that you created, answer the following questions:
 
 * Include appropriate commit messages in your files. (3 points)
 
-#### Comments (10 points)
+#### Comments (10 points) ✅
 
 ##### To receive all points, your code must:
 
