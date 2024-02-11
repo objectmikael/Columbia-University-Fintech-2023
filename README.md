@@ -75,3 +75,13 @@ This repositiory will house various class activities and projects for the durati
   - [Activity 5.3: Three Stock Monte](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Predicting%20the%20Future%20with%20Monte%20Carlo%20Simulations/Activity-5.3-Three_Stock_Monte)
 - Weekly Challenge 
   - [Financial Planner](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Weekly%20Challenge%20-%20Financial%20Planner)
+
+  ### Module 6
+- Making and Understanding Interactive Plots 
+  - [Activity 6.1: hvPlot Widgets](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Making%20and%20Understanding%20Interacive%20Plots/Activity-6.1-hvPlot_Widgets)
+  - [Activity 6.1: Composing Masterpieces](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Making%20and%20Understanding%20Interacive%20Plots/Activity-6.1-Composing_Masterpieces)
+- Customized Visualizations and Data Aggregations
+  - [Activity 6.2: Picture Perfect](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Customized%20Visualizations%20and%20Data%20Aggregation/Activity-6.2-Picture_Perfect)
+  - [Activity 6.2: Group Dynamics](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Customized%20Visualizations%20and%20Data%20Aggregation/Activity-6.2-Group_Dynamics)
+- Weekly Challenge 
+  - [Housing Rental Analysis in SF](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Weekly%20Challenge%20-%20Housing%20Rental%20Analysis%20For%20SF)
