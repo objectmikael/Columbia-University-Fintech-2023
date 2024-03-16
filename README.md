@@ -76,7 +76,7 @@ This repositiory will house various class activities and projects for the durati
 - Weekly Challenge 
   - [Financial Planner](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%205/Weekly%20Challenge%20-%20Financial%20Planner)
 
-  ### Module 6
+### Module 6
 - Making and Understanding Interactive Plots 
   - [Activity 6.1: hvPlot Widgets](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Making%20and%20Understanding%20Interacive%20Plots/Activity-6.1-hvPlot_Widgets)
   - [Activity 6.1: Composing Masterpieces](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Making%20and%20Understanding%20Interacive%20Plots/Activity-6.1-Composing_Masterpieces)
@@ -85,3 +85,41 @@ This repositiory will house various class activities and projects for the durati
   - [Activity 6.2: Group Dynamics](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Customized%20Visualizations%20and%20Data%20Aggregation/Activity-6.2-Group_Dynamics)
 - Weekly Challenge 
   - [Housing Rental Analysis in SF](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%206/Weekly%20Challenge%20-%20Housing%20Rental%20Analysis%20For%20SF)
+
+### Module 7
+- Weekly Challenge 
+  - [Looking for Suspicious Transactions](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%207/Weekly%20Challenge%20-%20Looking%20for%20Suspicious%20Transactions)
+
+### Module 8 and 9
+- Group Project 
+  - [Arbi: A Crypto Arbitrage Bot](https://github.com/objectmikael/arbi)
+
+### Module 10
+- Supervised vs. Unsupervised Learning and Clustering 
+  - [Activity 10.1: Segmenting Customers](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2010/Supervised%20vs.%20Unsupervised%20Learning%20and%20Clustering/Activity-10.1-Segmenting_Customers)
+  - [Activity 10.1: Finding k](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2010/Supervised%20vs.%20Unsupervised%20Learning%20and%20Clustering/Activity-10.1-Finding_k)
+- Data Processing and Normalization
+  - Activity 10.2: Warm Up
+  - Activity 10.2: Standardizing Stock Data
+  - Activity 10.2: Segmenting Customers
+- Principal Component Analysis 
+  - Activity 10.3: Warm Up
+  - Activity 10.3: Segmenting with PCA
+  - Activity 10.3: Energize Your Stock Clustering
+- Weekly Challenge 
+  - [Crypto Clustering](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2010/Weekly%20Challenge%20-%20Crypto%20Clustering)
+
+### Module 11
+- Working with Time Series Data 
+  - Activity 11.1: Inspecting Time Zones
+  - Activity 11.1: Visualizing Stock Data
+  - Activity 11.1: Visualizing Time Patterns
+- Time Series Forecasting
+  - Activity 11.2: Warm Up
+  - Activity 11.2: Stock Volatility and Google Trends
+- Time Series Forecasting with Prophet
+  - Activity 11.3: Forecasting Market Opportunities
+  - Activity 11.3: Interpreting Forecasting Results
+  - Activity 11.3: Forecasting Bitcoin Prices
+- Weekly Challenge 
+  - [Forecasting Net Prophet](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2011/Weekly%20Challange%20-%20Forecasting%20Net%20Prophet)
