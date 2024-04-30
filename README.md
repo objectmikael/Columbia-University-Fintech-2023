@@ -65,5 +65,5 @@ This repositiory will house various class activities and projects for the durati
 - Coming Soon
 
 ### Module 16 and 17: Project 2
-  - Group Project 
+- Group Project 
   - [ArbiML: A Crypto Arbitrage Bot](https://github.com/objectmikael/arbi)
