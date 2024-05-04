@@ -67,3 +67,7 @@ This repositiory will house various class activities and projects for the durati
 ### Module 16 and 17: Project 2
 - Group Project 
   - [ArbiML: A Crypto Arbitrage Bot](https://github.com/objectmikael/arbi)
+ 
+### Module 18: Blockchain
+- Weekly Challenge
+  - [PyChain Ledger](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2018%20-%20Blockchain/Weekly%20Challenge)
