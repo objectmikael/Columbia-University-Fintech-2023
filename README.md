@@ -71,3 +71,11 @@ This repositiory will house various class activities and projects for the durati
 ### Module 18: Blockchain
 - Weekly Challenge
   - [PyChain Ledger](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2018%20-%20Blockchain/Weekly%20Challenge)
+
+### Module 19: Blockchain Wallet
+- Weekly Challenge
+  - [Cryptocurrency Wallet: KryptoJobs2Go](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2019%20-%20Blockchain%20Wallets/Weekly%20Challenge%20-%20KryptoJobs2Go)
+ 
+### Module 20: Solidity
+- Weekly Challenge
+  - COMING SOON
