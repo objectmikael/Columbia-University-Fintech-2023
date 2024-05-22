@@ -78,4 +78,8 @@ This repositiory will house various class activities and projects for the durati
  
 ### Module 20: Solidity
 - Weekly Challenge
-  - COMING SOON
+  - [Joint Savings Account](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2020%20-%20Solidity/Weekly%20Challenge%20-%20Joint%20Savings%20Account)
+    
+### Module 21: Advanced Solidity
+- Weekly Challenge
+  - COMMING SOON
