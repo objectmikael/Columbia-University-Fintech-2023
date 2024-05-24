@@ -82,4 +82,4 @@ This repositiory will house various class activities and projects for the durati
     
 ### Module 21: Advanced Solidity
 - Weekly Challenge
-  - COMMING SOON
+  - [Martian Token Crowdsale](https://github.com/objectmikael/Columbia-University-Fintech-2023/tree/main/Module%2021%20-%20Tokenomics/Weekly%20Challenge%20-%20Martian%20Token%20Crowdsale)
